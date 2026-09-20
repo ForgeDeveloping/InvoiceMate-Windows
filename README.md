@@ -1,6 +1,6 @@
 # Invoice & Quote Desktop
 
-A Windows invoice and quote generator, built locally.
+A Windows invoice and quote generator.
 
 ## Project structure
 
