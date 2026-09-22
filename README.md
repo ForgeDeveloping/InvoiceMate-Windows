@@ -16,4 +16,4 @@ Version 1.0.0 is out Now!
 MIT — see `LICENSE`.
 
 
-[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com)
+[![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/forgedev)
