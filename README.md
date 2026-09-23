@@ -4,7 +4,7 @@ A Windows invoice and quote generator.
 Works Offline
 Update when Client pays!
 Gives Monthly stats.
- VERSION FOR MAC v1.0.0 COMING OUT 22/09/2026
+ VERSION FOR MAC v1.0.0 DELAYED NEW DATE: 01/10/2026
 
 ## Status
 
